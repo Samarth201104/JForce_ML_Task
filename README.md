@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ML Task: Student Academic Performance Data Processing
 
 ## Project Overview
@@ -107,9 +106,3 @@ Roll No,Subject,M1,M2,M3,Date
 - **Space Complexity**: O(n) for output generation
 - **Scalability**: Efficiently processes datasets with thousands of records
 
-
-
-=======
-# JForce-ML-Task
-New Repo
->>>>>>> a6f822e390a47cbef77cb33b06c0c58c462c6897
