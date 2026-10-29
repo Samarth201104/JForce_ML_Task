@@ -5,7 +5,7 @@ OUTPUT_FILE = "data/output.csv"
 
 df = pd.read_csv(INPUT_FILE)
 
-df["Date"] = pd.to_datetime(df["Date"], format="%d-%m-%Y")
+df["Date"] = pd.to_datetime(df["Date"], format="%d-%m-%y")
 
 df = df.sort_values(
     by=["Roll No", "Subject", "Date"],
